@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "fifa": "fifademo",
+    "default": "fifademo"
+  }
+}
